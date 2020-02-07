@@ -1,4 +1,4 @@
-package com.adapter.pattern;
+package com.adapter;
 
 public class OldCoffeeMachine {
     public void selectA(){

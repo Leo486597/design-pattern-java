@@ -1,4 +1,4 @@
-package com.adapter.pattern;
+package com.adapter;
 
 public class CoffeeTouchscreenAdapter implements CoffeeMachineInterface {
     private OldCoffeeMachine OldVendingMachine;

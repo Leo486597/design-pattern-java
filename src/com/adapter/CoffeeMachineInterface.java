@@ -1,4 +1,4 @@
-package com.adapter.pattern;
+package com.adapter;
 
 public interface CoffeeMachineInterface {
     public void chooseFirstSelection();
